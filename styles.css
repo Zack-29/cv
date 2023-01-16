@@ -1,0 +1,27 @@
+
+body{
+    background-color: #938562 ;
+    
+    }
+h1{
+        color: #b09e80;
+        font-family: Georgia, Times , serif;
+    }
+    
+h3{
+        color:#7D5B3F;
+    }
+
+hr{
+    border:none;
+    border-top-style: double;
+    border-color: black;
+    border-width: 5px;
+    
+
+}
+
+
+
+
+
